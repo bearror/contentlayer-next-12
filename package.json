@@ -1,0 +1,23 @@
+{
+  "name": "contentlayer-next-12",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "next build",
+    "dev": "next dev",
+    "start": "next start"
+  },
+  "devDependencies": {
+    "@types/react": "^17.0.38",
+    "next-contentlayer": "^0.0.33",
+    "typescript": "^4.5.4"
+  },
+  "dependencies": {
+    "contentlayer": "^0.0.33",
+    "next": "^12.0.7",
+    "react": "^18.0.0-beta-24dd07bd2-20211208",
+    "react-dom": "^18.0.0-beta-24dd07bd2-20211208"
+  },
+  "engines": {
+    "node": ">=16 <17"
+  }
+}
